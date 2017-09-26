@@ -1,2 +1,2 @@
-# SpringMvc_HelloWorld
-http://blog.burakkutbay.com adresinde yer alan Spring MVC adresinde yer alan ders örneğidir.
+# Spring Mvc Merhaba Dünya
+http://blog.burakkutbay.com/spring-mvc-dersleri-merhaba-dunya-ornegi.html/ adresinde yer alan Spring MVC adresinde yer alan uygulama örneğidir.

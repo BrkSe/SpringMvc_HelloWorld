@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
 
-        <org.springframework.version>6.2.11</org.springframework.version>
+        <org.springframework.version>6.2.17</org.springframework.version>
 
     </properties>
 
